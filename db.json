@@ -184,6 +184,31 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Albert",
+      "commentaire": "J'ai acheté l'Ampoule LED marche toujours",
+      "id": 21
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Albert",
+      "commentaire": "J'ai acheté l'Ampoule LED sur ce site, il marche toujours",
+      "id": 22
+    },
+    {
+      "pieceId": 4,
+      "utilisateur": "Pierre",
+      "commentaire": "Le liquide de frein est très bon et depuis que j'ai acheté sur ce site je suis devenu un bon client",
+      "id": 23
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Martin",
+      "commentaire": "Je ne suis pas satisfait",
+      "nbEtoiles": 1,
+      "id": 24
     }
   ]
 }
